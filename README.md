@@ -21,8 +21,6 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 ## 🧐 Processo de Criação
 ## 🧠 Prompts
-
-
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
@@ -42,7 +40,7 @@ Gemini：
 - Imagens geradas via Gemini
 
 ## 🚀 Resultados
-Ebook "Tribunal de dados" (Ver nos arquivos do repositório)
+[Ebook "Tribunal de dados" ] - (https://github.com/LeniseNovais/Ebook_IA/blob/main/Ebook_TribunalDeDados_IA.pdf)
 
 ## 💭 Reflexão 
 Desafio de criar algo 'natty' com IA: O maior desafio é criar algo “natty” com cara de “not”. Não se trata de ocultar a IA, e sim de manter a direção editorial nas minhas mãos. O resultado pode até nascer “natty”, mas a leitura respira “not”.
