@@ -7,23 +7,18 @@
 </p>
 
 # Projeto EBOOK Gerado por I.A.s
-
-
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o bootcamp do Santander em parceria com a DIO.me no qual fui aluna da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
+Todos os prompts usados seguem abaixo.
 
 
 ## 💻 Tecnologias utilizadas no projeto
-
 - [ChatGPT](https://chat.openai.com/) 
 - [Gemini]
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
-
-
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
@@ -38,11 +33,11 @@ Gemini：
 | título | Enviei minha foto e dei o seguinte prompt: Tema/Pessoa: Uma podcaster jovem, cabelo longo e vermelho, sorrindo com um livro na mão com o título: Tribunal de dados. ​Cenário: Lado a lado com uma cidade ao entardecer e um lindo pôr do sol ao fundo. ​Configurações de Câmera/Estilo: f/8, 1/100s, ISO 100, iluminação complexa, backlighting (luz de fundo), iluminação cinematográfica dinâmica, iluminação global, resolução ultra-realista, fotografia ultra detalhada. ​Parâmetros: --ar 1:1 --v 5.2 |
 
 ## ✨ Features
-
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Gemini
 
 
 ## 🛠️ Instruções de execução
-
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+
+Fim!
