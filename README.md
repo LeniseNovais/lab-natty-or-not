@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 <p align="center">
 <img 
@@ -14,16 +14,10 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 Todos os prompts usados seguem abaixo.
 
 
-## 💻 Tecnologias utilizadas no projeto
-=======
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
 Olá pessoal! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO nos convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
 
 
 ```markdown
@@ -33,15 +27,10 @@ Olá pessoal! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
 
 ## 🤖 Tecnologias Utilizadas
->>>>>>> 672e9526a64deec20bc8e7bdf47dc8c586433e4c
 - [ChatGPT](https://chat.openai.com/) 
 - [Gemini]
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
-<<<<<<< HEAD
-=======
-## 🧐 Processo de Criação
->>>>>>> 672e9526a64deec20bc8e7bdf47dc8c586433e4c
 ## 🧠 Prompts
 ChatGPT：
 
@@ -57,22 +46,14 @@ Gemini：
 | título | Enviei minha foto e dei o seguinte prompt: Tema/Pessoa: Uma podcaster jovem, cabelo longo e vermelho, sorrindo com um livro na mão com o título: Tribunal de dados. ​Cenário: Lado a lado com uma cidade ao entardecer e um lindo pôr do sol ao fundo. ​Configurações de Câmera/Estilo: f/8, 1/100s, ISO 100, iluminação complexa, backlighting (luz de fundo), iluminação cinematográfica dinâmica, iluminação global, resolução ultra-realista, fotografia ultra detalhada. ​Parâmetros: --ar 1:1 --v 5.2 |
 
 ## ✨ Features
-<<<<<<< HEAD
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Gemini
-
 
 ## 🛠️ Instruções de execução
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
-Fim!
-=======
-
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via Gemini
-
 ## 🚀 Resultados
-[Ebook "Tribunal de dados" ] - (https://github.com/LeniseNovais/Ebook_IA/blob/main/Ebook_TribunalDeDados_IA.pdf)
+[Ebook "Tribunal de dados" ](/Ebook_TribunalDeDados_IA.pdf)
 
 ## 💭 Reflexão 
 Desafio de criar algo 'natty' com IA: O maior desafio é criar algo “natty” com cara de “not”. Não se trata de ocultar a IA, e sim de manter a direção editorial nas minhas mãos. O resultado pode até nascer “natty”, mas a leitura respira “not”.
