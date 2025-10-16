@@ -51,13 +51,13 @@ Gemini：
 
 ## 🛠️ Instruções de execução
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
+```
 ## 🚀 Resultados
-[Ebook "Tribunal de dados" ](/Ebook_TribunalDeDados_IA.pdf)
+[Ebook "Tribunal de dados"](./Ebook_TribunalDeDados_IA.pdf)
 
 ## 💭 Reflexão 
 Desafio de criar algo 'natty' com IA: O maior desafio é criar algo “natty” com cara de “not”. Não se trata de ocultar a IA, e sim de manter a direção editorial nas minhas mãos. O resultado pode até nascer “natty”, mas a leitura respira “not”.
-```
+
 
 ### Exemplos e Insigths
 
